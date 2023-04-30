@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Ekaterina Suprunenko # your name (or website title) here
+logo: "/images/profile_photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  M<Currently pursuing Master's Degree in Data Science from Neural Academy (Rome, Italy).
   <br><br>
-  Second description 
+  Aspiring Junior Data Analyst with 10+ years commercial experience in Retail Sales, 5+ years in administrative accounting.
+  
+  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ekaterina-suprunenko-1ab303154/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
