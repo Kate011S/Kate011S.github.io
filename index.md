@@ -2,34 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Predictive models in Machine Learning
 
-[Project 1 Title](/sample_page)
+[Telco Customer Churn Prediction using DecisionTree model](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+Customer churn is a term used to describe a company's loss of customers.
+Businesses experiencing high levels of customer churn may need to find ways to improve their products or services, increase customer satisfaction, or address other issues that are causing customer churn. By understanding the factors that contribute to customer churn, businesses can develop strategies to reduce churn and retain their customers.
+In this project, I build a predictive model using Decision Tree Classifier to predict the abandonment rate of each customer.
 ---
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
