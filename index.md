@@ -4,9 +4,8 @@
 
 ### Predictive models in Machine Learning
 
-####_Telco Customer Churn Prediction using DecisionTree model_
+#### _Telco Customer Churn Prediction using DecisionTree model_
 
-Customer churn describes a company's loss of customers.
 Attracted by a better offer, better customer service, companies face loss of customers.  
 By understanding the factors that contribute to customer churn, businesses can develop strategies to reduce churn and retain their customers.
 <br><br>
