@@ -4,9 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently pursuing Master's Degree in Data Science from Neural Academy (Rome, Italy).
   Aspiring Junior Data Analyst. Skilled in Python, Machine Learning, Statistics, Data Visualisation and Communication.
   <br><br>
-  <a href="https://www.linkedin.com/in/ekaterina-suprunenko-1ab303154/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ekaterina-s-1ab303154/">View my LinkedIn Profile</a>  
   
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
