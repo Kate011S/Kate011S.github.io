@@ -39,6 +39,6 @@ Tourism in 2020: top spenders, top destinations and top profits.
 
 ![Tableau World Tourism](https://github.com/Kate011S/Kate011S.github.io/assets/105933597/e0a2dab5-c1c5-4950-9338-dbcd7efc4608)
 
-[View on Tableau](https://public.tableau.com/views/WorldTourism2020/WorldTourism?:language=en-US&:display_count=n&:origin=viz_share_link)
+[View on Tableau](https://public.tableau.com/app/profile/ekaterina.suprunenko/viz/WorldTourism2020/WorldTourism)
 
 [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) [![](https://img.shields.io/badge/Google-white?logo=Google)](#) [![](https://img.shields.io/badge/Excel-white?logo=Excel)](#)
