@@ -37,7 +37,7 @@ The longer the contract term - the least stressful it is to renew it every time,
 
 Tourism in 2020: top spenders, top destinations and top profits.
 
-![Tableau World Tourism](https://github.com/Kate011S/Kate011S.github.io/assets/105933597/e0a2dab5-c1c5-4950-9338-dbcd7efc4608)
+![WorldTourism](https://github.com/Kate011S/Kate011S.github.io/assets/105933597/da9f7043-7db6-4d5c-a6b8-bd761c4a8898)
 
 [View on Tableau](https://public.tableau.com/views/WorldTourism2020/WorldTourism?:language=en-US&:display_count=n&:origin=viz_share_link)
 
