@@ -30,8 +30,9 @@ In this project, I build a predictive model using Decision Tree Classifier to pr
 ![Correlation_Churn_Contract](https://github.com/Kate011S/Kate011S.github.io/assets/105933597/829d4507-aa26-4c11-97b0-056082968f28)
 
 The longer the contract term - the least stressful it is to renew it every time, the happier the customer.
-<br><br>
-<br><br>
+
+[View code on GitHub](https://github.com/Kate011S/Customer-Churn/blob/956adaa43f2429b70f30e5f663c24bc75b0a4499/Customer%20_Churn_ES.ipynb)
+
 ## Data Visualisation
 
 Tourism in 2020: top spenders, top destinations and top profits.
