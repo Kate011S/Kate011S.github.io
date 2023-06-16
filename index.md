@@ -33,6 +33,12 @@ The longer the contract term - the least stressful it is to renew it every time,
 
 [View code on GitHub](https://github.com/Kate011S/Customer-Churn/blob/956adaa43f2429b70f30e5f663c24bc75b0a4499/Customer%20_Churn_ES.ipynb)
 
+### Clustering with K-Means algorythm using Elbow method
+By applying K-means clustering to the Iris dataset, we can discover distinct clusters that might align with the known class labels of the dataset.
+![KmeansIris](https://github.com/Kate011S/Kate011S.github.io/assets/105933597/1f4a4b8a-71a7-491e-82c7-0b1d6abbd2b4)
+
+[View code on GitHub](https://github.com/Kate011S/K-Means_on_Iris/blob/main/Clustering_K-Means.ipynb))
+
 ## Data Visualisation
 
 Tourism in 2020: top spenders, top destinations and top profits.
