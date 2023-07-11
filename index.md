@@ -51,8 +51,8 @@ Here I analyse which factors lead to customers' satisfaction and how the flight 
 I build 5 different Machine Leraning algorythms and check its performance: <br>
 ![mlalgs](https://github.com/Kate011S/Kate011S.github.io/assets/105933597/bb35a539-a8f8-49ec-9c12-460c5d02b42a)
 After selecting 3 best performance models I tune hyperparameters twice for each model to check and compare if the performance has improved.<br>
-![hp](https://github.com/Kate011S/Kate011S.github.io/assets/105933597/249b5e5a-8efc-4bc8-8987-61125f806bfb)<br>
-I plot all the created and tuned models to see which 3 performed the best, to create then a unique Ensemble model.<br>
+![hp](https://github.com/Kate011S/Kate011S.github.io/assets/105933597/249b5e5a-8efc-4bc8-8987-61125f806bfb)<br><br>
+I plot all the created and tuned models to see which 3 performed the best, to create then a unique Ensemble model.<br><br>
 ![hptuned](https://github.com/Kate011S/Kate011S.github.io/assets/105933597/0db02556-d090-4525-a0e8-561bc044f930) <br>
 **Performance of the Ensemble model:**
 ![ens](https://github.com/Kate011S/Kate011S.github.io/assets/105933597/70a5bfaa-c9f1-4d97-a596-57683bea5003)
