@@ -65,7 +65,8 @@ And here is the Feature importance plot, which shoes what really matters and wha
 <a href="#"><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" style="width: 62px; height: auto;"></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XGBoost" style="width: 62px; height: auto;"></a>
 <a href="#"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" style="width: 62px; height: auto;"></a>
-<a href="#"><img src="https://user-images.githubusercontent.com/4958441/31575583-dfe49a5e-b0e5-11e7-8cf6-c955f5a03f5f.png" alt="CatBoost" style="width: 62px; height: auto;"></a>
+<a href="#"><img src="https://s3.amazonaws.com/ir_public/cover/catboost_logo_single%402x.png" alt="CatBoost" style="width: 62px; height: auto;"></a>
+
 
 
 
