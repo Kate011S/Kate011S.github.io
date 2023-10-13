@@ -40,9 +40,9 @@ By applying K-means clustering to the Iris dataset, we can discover distinct clu
 <br><br>
 
 ### MASTER IN DATA SCIENCE FINAL PROJECT: <br> EDA + Ensemble model (RandomForest + XGBoost + CATBoost)<br> + hyperparameters tuning
-_Flight Passengers Satsifaction_ <br>
-[View full Notebook on GitHub](https://github.com/Kate011S/Ensemble-Method_Master-Final-Project/blob/main/FinalProject_EkaterinaSuprunenko.ipynb)<br><br>
-[View PowerPoint Presentation on GitHub](https://github.com/Kate011S/Ensemble-Method_Master-Final-Project/blob/main/FinalProject_MasterDataScience_Ekaterina_Suprunenko.pdf)
+__Flight Passengers Satsifaction__ <br><br>
+[View full Notebook on GitHub](https://github.com/Kate011S/Ensemble-Method_Master-Final-Project/blob/main/FinalProject_EkaterinaSuprunenko.ipynb)<br>
+[View full PowerPoint Presentation on GitHub](https://github.com/Kate011S/Ensemble-Method_Master-Final-Project/blob/main/FinalProject_MasterDataScience_Ekaterina_Suprunenko.pdf)
 
 **Customer satisfaction is what lies between company and its competitor.** <br>
 Here I analyse which factors are responsible for customers satisfaction and how the flight company service can be improved.
